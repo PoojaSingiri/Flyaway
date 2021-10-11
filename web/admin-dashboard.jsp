@@ -141,8 +141,5 @@
         </section>
     </section>
 </section>
-<div class="footer" align="center">
-    FlyAway by Aditya Phadke
-</div>
 </body>
 </html>
