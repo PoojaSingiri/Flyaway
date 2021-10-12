@@ -7,11 +7,7 @@
     String dbName = "flyaway";
     String userId = "root";
     String password = "adminadmin";
-//    String driverName = "com.mysql.jdbc.Driver";
-//    String connectionUrl = "jdbc:mysql://remotemysql.com/";
-//    String dbName = "XxYrWXRjWf";
-//    String userId = "XxYrWXRjWf";
-//    String password = "CcEE3g9IWg";
+
     try {
         Class.forName(driverName);
     } catch (ClassNotFoundException e) {
