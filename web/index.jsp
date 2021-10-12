@@ -60,8 +60,5 @@
             <p><a href="/login.jsp" class="w3-button w3-white w3-padding-large w3-large w3-margin-top w3-opacity w3-hover-opacity-on"><i class="fa fa-gear"></i>   Admin Login</a></p>
         </div>
     </header>
-    <div class="footer">
-       FlyAway by Aditya Phadke 
-    </div>
 </body>
 </html>
