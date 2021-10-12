@@ -56,9 +56,5 @@
                 out.print("You must Login first");
             }
             %>
-    </div>
-<div class="footer" align="center">
-    FlyAway by Aditya Phadke
-</div>
 </body>
 </html>
