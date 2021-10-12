@@ -75,9 +75,6 @@
         </section>
     </section>
 </body>
-<div class="footer" align="center">
-    FlyAway by Aditya Phadke
-</div>
 </html>
 <%
     }
