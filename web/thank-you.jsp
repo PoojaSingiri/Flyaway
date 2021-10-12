@@ -64,8 +64,5 @@
         <h4>Payment By-<%=Booking.name_on_card%> | Card No- <%=Booking.card_details%></h4><br>
         <h2 align="right"><strong>Total Paid- Rs.<%=Search.persons*Booking.ticket_price%></strong></h2><br><br>
     </div>
-<div class="footer" align="center">
-    FlyAway by Aditya Phadke
-</div>
 </body>
 </html>
